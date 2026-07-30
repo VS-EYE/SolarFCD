@@ -261,12 +261,14 @@ SolarFCD-Classification/
 ## 6. Citation
 
 ```bibtex
-@article{<key>,
-  title   = {<Paper title>},
-  author  = {<Authors>},
-  journal = {<Journal>},
-  year    = {2026},
-  doi     = {<DOI>}
+@misc{ijaz2026solarfcdlargescaledatasetbenchmark,
+      title={SolarFCD: A Large-Scale Dataset and Benchmark for Solar Fault Classification in Photovoltaic Systems}, 
+      author={Misbah Ijaz and Saif Ur Rehman Khan and Abd Ur Rehman and Arooj Zaib and Sebastian Vollmer and Andreas Dengel and Muhammad Nabeel Asim},
+      year={2026},
+      eprint={2604.23662},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.23662}, 
 }
 ```
 
