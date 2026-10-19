@@ -280,4 +280,4 @@ Dataset: SolarFCD, DFKI Cloud, https://cloud.dfki.de/owncloud/index.php/s/SZYo97
 
 Questions and issues: please open a
 [GitHub issue](https://github.com/<your-username>/SolarFCD-Classification/issues)
-or contact `<your.email@dfki.de>`.
+or contact `<saif_ur_rehman.khan@dfki.de>`.
